@@ -1,0 +1,13 @@
+{
+    "members": [
+      {
+        "username": "테스트1",
+        "email": "test@test"
+      
+      },
+      {
+        "username": "테스트2",
+        "email": "tes2t@test"
+      }    
+    ]
+}
